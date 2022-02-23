@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zion-El
+- 👋 Hi, I’m @Michael
 - 👀 I’m interested in learning and working on python based projects
 - 🌱 I’m currently learning Python for ML and AI
 - 💞️ I’m looking to collaborate on Machine learning projects
